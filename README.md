@@ -1,24 +1,16 @@
-# create-svelte
+# color-icon-generator
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A simple sveltekit application that allows you to re-colour (re-color if you are an American!) svg icons.
 
-## Creating a project
+This can be used to recolour svg icons from fontawesome.com
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Installation
 
-```bash
-# create a new project in the current directory
-npm init svelte
-
-# create a new project in my-app
-npm init svelte my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Clone this repository then
 
 ```bash
+cd color-icon-generator
+npm install
 npm run dev
 
 # or start the server and open the app in a new browser tab
