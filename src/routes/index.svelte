@@ -1,5 +1,5 @@
 <script>
-	let color = '#ff3e00';
+	let color = '#47b2e4';
 	$: code = '';
 </script>
 
