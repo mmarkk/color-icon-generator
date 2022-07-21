@@ -6,7 +6,7 @@
 <div style="--theme-color: {color}">
 	<div class="mt-8">
 		<div>
-			<label for="comment" class="block text-gray-700 text-xl font-bold">Paste svg code here</label>
+			<label for="comment" class="block text-gray-700 text-xl font-bold">Paste SVG code here</label>
 			<div class="mt-1">
 				<textarea
 					rows="10"
@@ -19,7 +19,7 @@
 		</div>
 	</div>
 
-	<label for="iconcolor" class="block text-xl font-bold text-gray-700 mt-8">Select color here</label
+	<label for="iconcolor" class="block text-xl font-bold text-gray-700 mt-8">Select colour here</label
 	>
 	<input type="color" bind:value={color} style="height: 50px;" />
 
